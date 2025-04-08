@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Token-Balance-Checker/static/css/main.9222898c.css",
+    "main.js": "/Token-Balance-Checker/static/js/main.8321f70e.js",
+    "static/js/453.8496fdee.chunk.js": "/Token-Balance-Checker/static/js/453.8496fdee.chunk.js",
+    "index.html": "/Token-Balance-Checker/index.html",
+    "main.9222898c.css.map": "/Token-Balance-Checker/static/css/main.9222898c.css.map",
+    "main.8321f70e.js.map": "/Token-Balance-Checker/static/js/main.8321f70e.js.map",
+    "453.8496fdee.chunk.js.map": "/Token-Balance-Checker/static/js/453.8496fdee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9222898c.css",
+    "static/js/main.8321f70e.js"
+  ]
+}
