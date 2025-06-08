@@ -294,21 +294,6 @@ function App() {
 
 
 
-
-          <div className="p-4 text-center">
-            <div>
-              <a href="https://www.quicknode.com" className="text-blue-500">
-                Powered by QuickNode
-              </a>
-              <br />
-              <a
-                href="https://github.com/velvet-shark/token-balance-app"
-                className="text-blue-500"
-              >
-                [ Source code on GitHub ]
-              </a>
-            </div>
-          </div>
         </div>
       </main>
     </>
